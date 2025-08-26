@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhu Xu(徐铸)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a fisrt yesr Phd candidate from [School of Artificial Intelligence for Science, Peking University](https://sai.pku.edu.cn), advised by [Assistant Prof. Yang Liu](https://www.csyangliu.com/) at  [Wangxuan Institite of Computer Technology (WICT), Peking University](https://www.icst.pku.edu.cn/).
+I'm a fisrt yesr Phd student from [School of Artificial Intelligence for Science, Peking University](https://sai.pku.edu.cn), advised by [Assistant Prof. Yang Liu](https://www.csyangliu.com/) at  [Wangxuan Institite of Computer Technology (WICT), Peking University](https://www.icst.pku.edu.cn/).
 
 I obtained my bachelor’s degree of [School of Electronics Engineering and Computer Science (EECS), Peking University](https://eecs.pku.edu.cn/) in July, 2024.
 
