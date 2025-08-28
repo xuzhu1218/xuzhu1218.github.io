@@ -23,16 +23,22 @@ My research interest includes scene understanding and generation, computer visio
   **Zhu Xu**, Ting Lei, Zhimin Li, Guan Wang, Qingchao Chen, Yuxin Peng, Yang Liu†
 
   *International Conference on Computer Vision (**ICCV**), 2025*
-
+  <div align="left">
+  <img src=../images/ICCV25_graph.png width=50% />
+  </div>
+  
   \[ [PDF](https://arxiv.org/abs/2508.04943)\]  \[ [Project Page](https://sites.google.com/view/trkt-official)\] \[ [Code](https://github.com/XZPKU/TRKT) \]
 
-  
+
 - **Interact-custom: Customized Human Object Interaction Image Generation**
   
   **Zhu Xu**, Zhaowen Wang, Yuxin Peng, Yang Liu†
   
   *ACM International Conference on Multimedia (**ACM-MM**), 2025*
-
+  <div align="left">
+  <img src=../images/ACMMM25_2dhoi.png width=50% />
+  </div>
+  
    \[ [PDF](https://arxiv.org/abs/2508.19575 )\]  \[ [Project Page](https://sites.google.com/view/interact-custom)\] \[ [Code](https://github.com/XZPKU/Inter-custom) \]
   
 - **Semantic-Aware Human Object Interaction Image Generation**
@@ -40,6 +46,9 @@ My research interest includes scene understanding and generation, computer visio
   **Zhu Xu**, Qingchao Chen, Yuxin Peng, Yang Liu†
   
   *International Conference on Machine Learning (**ICML**), 2024*
+  <div align="left">
+  <img src=../images/ICML24_HOI.png width=50% />
+  </div>
   
   \[ [PDF](https://openreview.net/pdf?id=vITl6CqIkk)\]  \[ [Project Page](https://sites.google.com/view/sa-hoi/)\] \[ [Code](https://github.com/XZPKU/SA-HOI) \]
   
@@ -48,6 +57,9 @@ My research interest includes scene understanding and generation, computer visio
   Zhuoying Li*, **Zhu Xu\***, Yuxin Peng, Yang Liu†
   
   *International Conference on Machine Learning (**ICML**), 2025*
+  <div align="left">
+  <img src=../images/ICML25.png width=50% />
+  </div>
   
   \[ [PDF](https://arxiv.org/abs/2506.13827)\]  \[ [Project Page](https://joyli-x.github.io/BPM/)\] \[ [Code](https://github.com/joyli-x/BPM) \]
   
@@ -56,7 +68,10 @@ My research interest includes scene understanding and generation, computer visio
   Yiming Qin, **Zhu Xu**, Yang Liu†
   
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*
-
+  <div align="left">
+  <img src=../images/CVPR25_3D.png width=50% />
+  </div>
+  
     \[ [PDF](https://hierarchical-chain-of-generation.github.io/static/pdfs/paper_HCoG.pdf)\]  \[ [Project Page](https://hierarchical-chain-of-generation.github.io/)\] \[ [Code](https://github.com/Wakals/GASCOL) \]
   
 - **Investigating Domain Gaps for Indoor 3D Object Detection**
@@ -64,7 +79,10 @@ My research interest includes scene understanding and generation, computer visio
   Zijing Zhao, **Zhu Xu**, Qingchao Chen, Yuxin Peng, Yang Liu†
   
   *ACM International Conference on Multimedia (**ACM-MM**) Dataset Track, 2025*
-
+  <div align="left">
+  <img src=../images/ACMMM25_3ddet.png width=50% />
+  </div>
+  
     \[ [PDF](https://arxiv.org/abs/2508.17439)\]  \[ [Project Page](https://jeremyzhao1998.github.io/DAVoteNet-release/)\] \[ [Code](https://github.com/JeremyZhao1998/ProcTHOR-OD) \]
 
 - **3D Vision and Language Pretraining with Large-Scale Synthetic Data**
@@ -72,13 +90,19 @@ My research interest includes scene understanding and generation, computer visio
   Dejie Yang, **Zhu Xu**, Wentao Mo, Qingchao Chen, Siyuan Huang, Yang Liu†
 
   *International Joint Conference on Artificial Intelligence (**IJCAI**), 2024*
-
-    \[ [PDF](https://arxiv.org/pdf/2407.06084v1)\]  \[ [Project Page](https://blog.idejie.com/3Dsyn_pages/)\] \[ [Code](https://github.com/idejie/3DSyn) \]
+  <div align="left">
+  <img src=../images/IJCAI-2024.png width=50% />
+  </div>
+  
+  \[ [PDF](https://arxiv.org/pdf/2407.06084v1)\]  \[ [Project Page](https://blog.idejie.com/3Dsyn_pages/)\] \[ [Code](https://github.com/idejie/3DSyn) \]
   
 - **Hierarchical Sub-action Tree for Continuous Sign Language Recognition**
   
   Dejie Yang, **Zhu Xu**, Xinjie Gao, Yang Liu†
 
   *IEEE International Conference on Multimedia&Expo (**ICME**), 2025*   
-
+  <div align="left">
+  <img src=../images/ICME25_sign.png width=50% />
+  </div>
+  
    \[ [PDF](https://arxiv.org/html/2506.20947v1)\]  \[ [Project Page](https://idejie.com/HST-SLR/)\] \[ [Code](https://github.com/idejie/HST-SLR) \]
