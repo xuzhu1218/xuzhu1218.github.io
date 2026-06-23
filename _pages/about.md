@@ -15,7 +15,8 @@ My research interest includes scene understanding and generation, computer visio
 
 [Email](xuzhu@stu.pku.edu.cn) / [Github](https://github.com/XZPKU) / [Google Scholar](https://scholar.google.com/citations?user=c3cgxwoAAAAJ&hl=zh-CN)
 
-
+## Acdemic Services: 
+- Reviewer: IJCV, NeurIPS, ICML, ECCV, ACM MM, CVPR, etc.
 ## Publications:
 
 - **Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced In-domain Knowledge Transferring**
@@ -90,4 +91,11 @@ My research interest includes scene understanding and generation, computer visio
   
    \[ [PDF](https://arxiv.org/html/2506.20947v1)\]  \[ [Project Page](https://idejie.com/HST-SLR/)\] \[ [Code](https://github.com/idejie/HST-SLR) \]
 
-  
+## Selected Honors and Awards
+- Academic Innovation Award of Peking University
+- Merit Student of Peking University
+- Lingjun Linghang Scholarship of Peking University
+- First-Class Freshman Scholarship, WICT, Peking University.
+- Academic Excellence Award, Peking University.
+- TianChuang Scholarship, Peking University.
+- Research Excellence Award, Peking University.
